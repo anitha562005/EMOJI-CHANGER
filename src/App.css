@@ -1,38 +1,29 @@
-.App {
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.container{
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+  padding: 40px;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-image: url("https://img.freepik.com/free-vector/gradient-world-emoji-day-background-with-emoticons_23-2149427636.jpg?t=st=1751012393~exp=1751015993~hmac=6d5d1e8590b8cf29fef845cbb43b68b3d7451f0fae6aac342d43947ab80fb814");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.App-link {
-  color: #61dafb;
+.buttons{
+  margin:20px 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn{
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: rgb(199, 55, 182);
+  border: none;
+  border-radius: 6px;
+
 }
