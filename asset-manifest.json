@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EMOJI-CHANGER/static/css/main.5e779ef6.css",
+    "main.js": "/EMOJI-CHANGER/static/js/main.b003e630.js",
+    "static/js/453.fa883d38.chunk.js": "/EMOJI-CHANGER/static/js/453.fa883d38.chunk.js",
+    "index.html": "/EMOJI-CHANGER/index.html",
+    "main.5e779ef6.css.map": "/EMOJI-CHANGER/static/css/main.5e779ef6.css.map",
+    "main.b003e630.js.map": "/EMOJI-CHANGER/static/js/main.b003e630.js.map",
+    "453.fa883d38.chunk.js.map": "/EMOJI-CHANGER/static/js/453.fa883d38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e779ef6.css",
+    "static/js/main.b003e630.js"
+  ]
+}
